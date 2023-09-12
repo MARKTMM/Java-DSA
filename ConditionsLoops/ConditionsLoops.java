@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ConditionsLoopsCalculator {
+public class ConditionsLoops {
     public static void main(String[] args) {
         /*
             Syntax of if statements:
